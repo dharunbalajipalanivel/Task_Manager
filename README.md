@@ -53,9 +53,13 @@ Task Manager App is a Java applet that allows users to manage tasks by adding, c
 Contributions are welcome! If you'd like to contribute:
 
 - Fork this repository.
-- Create a new branch: git checkout -b feature-name
-- Make your changes and commit: git commit -m "Add feature"
-- Push to your fork: git push origin feature-name
+- Create a new branch: **`git checkout -b feature-name`**
+- Make your changes and commit: **`git commit -m "Add feature"`**
+- Push to your fork: **`git push origin feature-name`**
 - Create a pull request.
 
-Please review our Contribution Guidelines for detailed information.
+Please review our [Contribution Guidelines](https://chat.openai.com/c/CONTRIBUTING.md) for detailed information.
+
+## License
+This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE).
+
